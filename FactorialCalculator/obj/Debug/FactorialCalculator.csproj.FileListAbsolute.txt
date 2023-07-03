@@ -1,0 +1,14 @@
+C:\Users\PK9\source\repos\FactorialCalculator\bin\Debug\FactorialCalculator.exe.config
+C:\Users\PK9\source\repos\FactorialCalculator\bin\Debug\FactorialCalculator.exe
+C:\Users\PK9\source\repos\FactorialCalculator\bin\Debug\FactorialCalculator.pdb
+C:\Users\PK9\source\repos\FactorialCalculator\obj\Debug\FactorialCalculator.csprojAssemblyReference.cache
+C:\Users\PK9\source\repos\FactorialCalculator\obj\Debug\MainWindow.baml
+C:\Users\PK9\source\repos\FactorialCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\PK9\source\repos\FactorialCalculator\obj\Debug\App.g.cs
+C:\Users\PK9\source\repos\FactorialCalculator\obj\Debug\FactorialCalculator_MarkupCompile.cache
+C:\Users\PK9\source\repos\FactorialCalculator\obj\Debug\FactorialCalculator.g.resources
+C:\Users\PK9\source\repos\FactorialCalculator\obj\Debug\FactorialCalculator.Properties.Resources.resources
+C:\Users\PK9\source\repos\FactorialCalculator\obj\Debug\FactorialCalculator.csproj.GenerateResource.cache
+C:\Users\PK9\source\repos\FactorialCalculator\obj\Debug\FactorialCalculator.csproj.CoreCompileInputs.cache
+C:\Users\PK9\source\repos\FactorialCalculator\obj\Debug\FactorialCalculator.exe
+C:\Users\PK9\source\repos\FactorialCalculator\obj\Debug\FactorialCalculator.pdb
